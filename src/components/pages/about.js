@@ -1,6 +1,6 @@
 import React from "react";
 
-import profilePicture from "../../../static/assets/images/LuisRoma.png";
+import profilePicture from "../../../static/assets/images/LuisRoma.jpg";
 
 export default function() {
   return (
