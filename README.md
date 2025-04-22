@@ -13,13 +13,13 @@ Este portfolio fue creado como carta de presentación digital. Tiene como objeti
 ---
 
 ### 🔐 Home
-![Home](https://raw.githubusercontent.com/manuelroma777/luis-roma-react-portfolio/refs/heads/main/static/assets/images/portfolio-1.png).
+![Home](https://raw.githubusercontent.com/manuelroma777/luis-roma-react-portfolio/refs/heads/master/static/assets/images/portfolio-1.png).
 
 ### 🔐 About
-![About](https://raw.githubusercontent.com/manuelroma777/luis-roma-react-portfolio/refs/heads/main/static/assets/images/portfolio-2.png).
+![About](https://raw.githubusercontent.com/manuelroma777/luis-roma-react-portfolio/refs/heads/master/static/assets/images/portfolio-2.png).
 
 ### 🔐 Contact
-![Contact](https://raw.githubusercontent.com/manuelroma777/luis-roma-react-portfolio/refs/heads/main/static/assets/images/portfolio-3.png)
+![Contact](https://raw.githubusercontent.com/manuelroma777/luis-roma-react-portfolio/refs/heads/master/static/assets/images/portfolio-3.png)
 
 ## ⚙️ Tecnologías Utilizadas
 
