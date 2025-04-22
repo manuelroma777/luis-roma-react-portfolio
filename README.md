@@ -45,6 +45,8 @@ Este portfolio fue creado como carta de presentación digital. Tiene como objeti
 
 ## 📁 Estructura del Proyecto
 
+```plaintext
+
 luis-roma-react-portfolio/
 ├── public/                  # Archivos estáticos (favicon, manifest, etc.)
 ├── src/                     # Código fuente principal de React
